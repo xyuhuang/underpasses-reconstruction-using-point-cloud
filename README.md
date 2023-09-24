@@ -1,6 +1,8 @@
 # Underpasses reconstruction using point cloud
 Model-driven reconstruction of building underpasses using point clouds
 
+Developing clustering method for underpasses given the façade-level classified point cloud.
+Reconstructing underpasses by fitting 3D underpass models.
 
 Data used: https://github.com/OloOcki/tum-facade
 
